@@ -1,0 +1,12 @@
+{
+  "name": "fullstory-parser",
+  "version": "1.0.0",
+  "description": "A script that helps you pray you can extract CSS values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike on a sunday with coffee",
+  "license": "ISC"
+}
